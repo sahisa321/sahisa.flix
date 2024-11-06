@@ -11,7 +11,7 @@ header{
     border-bottom: solid 2px rgb(42,122,228);
     padding:20px;
     font-size:30px;
-    color:rgb(42,122,228);
+    color:rgb(42,122,228)
     
 }
 
@@ -60,7 +60,7 @@ img{
 
 .categoria-videos img:hover{
 opacity:1.0;
-border:1px solid blue;
+border:1px solid blue
 }
 
 .categoria h2 {
